@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+
+.covid {
+    background-color: #211F54;
+    border: 0;
+    border-radius: 1rem;
+}
+
+.covid h1, h2, .p h3 {
+    color: #fff;
+}
